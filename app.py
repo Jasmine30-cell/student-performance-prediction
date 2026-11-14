@@ -302,7 +302,7 @@ with st.form("student_form"):
     # ======================================
 
     submit = st.form_submit_button(
-        "🔍 Compare DNN and Random Forest Predictions",
+        "🔍Prediction Analysis",
         use_container_width=True
     )
 
